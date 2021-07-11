@@ -26,6 +26,15 @@ Go To Login Form
     Click Text                  LOGIN
     Wait Until Page Contains    Fala QA, vamos testar o login?
 
+Go To SignUp Form
+    Open Nav
+
+    Click Text                  FORMS
+    Wait Until Page Contains    FORMS
+
+    Click Text                  CADASTRO
+    Wait Until Page Contains    Bem-vindo, crie sua conta.
+
 Go To Radio Buttons
     Open Nav
 
@@ -61,4 +70,10 @@ Go To Long Click
     Click Text                  CLIQUE LONGO
     Wait Until Page Contains    Botão clique longo 
 
-    
+Go To Avengers List
+    Open Nav
+    Click Text                  AVENGERS
+    Wait Until Page Contains    AVENGERS
+
+    Click Text                  LISTA
+    Wait Until Page Contains    LISTA 
